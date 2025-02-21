@@ -56,9 +56,4 @@ The script will launch a Chromium browser, navigate to the Hacker News "Newest" 
 - The `parseRelativeTime` function converts relative timestamps to absolute timestamps.
 - It stops scraping when it collects 100 articles or when there are no more pages.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contributions
-Feel free to fork this repository and submit pull requests to improve or extend the functionality!
 
